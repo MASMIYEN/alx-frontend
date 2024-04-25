@@ -14,4 +14,10 @@ a {
   display: none;
 }
 
-.card
+.card-category {
+  color: #d73953;
+}
+
+.section-tagline {
+  color: #d73953;
+}
