@@ -11,7 +11,7 @@ html {
   --color-dark-grey: #353535;
   --text-color: var(--color-black);
   --line-height-small: 1.2;
-  --line-hieght-base: 1.5;
+  --line-height-base: 1.5;
   --line-height-big: 1.8;
 
   --font-family-base: "Open Sans", "Helvetica Neue", Helvetica, Arial,
@@ -33,7 +33,7 @@ body {
   font-family: var(--font-family-base);
   font-size: var(--font-size-medium);
   font-weight: var(--font-weight-regular);
-  line-height: var(--line-hieght-base);
+  line-height: var(--line-height-base);
 }
 
 h1,
